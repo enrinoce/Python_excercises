@@ -1,4 +1,4 @@
-name = 'Enrico'
+name = 'Enrico' 
 age = 28 # How old I am
 height = 181 # in cm
 weight = 73 #kilograms
@@ -6,7 +6,7 @@ my_eyes = 'Brown'
 my_teeth = 'White'
 my_hair = 'Brown'
 
-print(f"Let's talk about {name}")
+print(f"Let's talk about {name}") #formatting strings with the f and inserting variables in them
 print(f"He's {height} cm tall")
 print(f"He's {weight} kilograms heavy")
 print(f"He's got {my_eyes} eyes and {my_hair} hair")
